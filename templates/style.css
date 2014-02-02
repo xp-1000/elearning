@@ -1,0 +1,25 @@
+body   
+{
+	margin: 0;
+	padding: 0;
+}
+
+#global 
+{
+	position: absolute;
+	width: 400px;
+	margin-left: -200px;
+	left: 50%;
+
+	height: 300px;
+	margin-top: -150px;
+	top: 50%;
+}
+#contenu
+{
+	margin: 1em;
+}
+div#form
+{
+	margin: auto;
+}
